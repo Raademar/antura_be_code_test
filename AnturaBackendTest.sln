@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnturaBackendTest", "AnturaBackendTest\AnturaBackendTest.csproj", "{0C31D0FF-4741-4EE5-8696-23369B0EBA04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnturaBackendTest.Tests", "AnturaBackendTest.Tests", "{A13134C3-E4B8-4F05-86D4-EF9219FFF868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnturaBackendTest.Test", "AnturaBackendTest.Test\AnturaBackendTest.Test.csproj", "{ABE294F5-F497-4DB9-888A-73DBC46DFB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C31D0FF-4741-4EE5-8696-23369B0EBA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C31D0FF-4741-4EE5-8696-23369B0EBA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C31D0FF-4741-4EE5-8696-23369B0EBA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C31D0FF-4741-4EE5-8696-23369B0EBA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE294F5-F497-4DB9-888A-73DBC46DFB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE294F5-F497-4DB9-888A-73DBC46DFB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE294F5-F497-4DB9-888A-73DBC46DFB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE294F5-F497-4DB9-888A-73DBC46DFB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABE294F5-F497-4DB9-888A-73DBC46DFB83} = {A13134C3-E4B8-4F05-86D4-EF9219FFF868}
+	EndGlobalSection
+EndGlobal
